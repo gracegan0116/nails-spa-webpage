@@ -352,7 +352,9 @@ ul li {
 /* -----------------------------------------------------------------------------
 Common Styles
 ------------------------------------------------------------------------------- */
-.section-header{	text-align: center;	padding-bottom: 30px;
+.section-header{	
+text-align: center;	
+padding-bottom: 30px;
 }
 .section-header h2{
 	
@@ -508,6 +510,9 @@ ul.list-default li {
 .package ul.list-default li:before {
 	top: 0.3em !important;
 }
+.product-text {
+    width: 80%;
+}
 .price {
     top: 0;
     right: 0;
@@ -515,18 +520,19 @@ ul.list-default li {
     left: auto;
     position: absolute;
     background-color: #ff67ab;
+	text-align: center;
     font-size: 1.35em;
     font-weight: 500;
     color: #fff;
     padding: 0.5em;
     margin: -1px -1px -1px 0;
+	width: 51px;
 }
 .package .price {
-	top: 1em;
+	top: 0.7em;
 	right: 1em;
 	bottom: auto;
-	font-size: 1.5em;
-	padding: 0.7em;
+	font-size: 1em;
 }
 .package .price small {
 	font-size: 0.7em;
