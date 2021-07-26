@@ -407,6 +407,8 @@ Common Styles
 .section-header {
     text-align: center;
     padding-bottom: 30px;
+    font-size: 50px;
+    /*font-family: Brush Script MT;*/
 }
 
 .section-header h2 {
@@ -416,6 +418,47 @@ Common Styles
 .section-header p {
 
 }
+
+/* ------------------------------------------------------------------------------
+	 Vision
+-------------------------------------------------------------------------------*/
+.service-section {
+    padding-top: 100px;
+}
+
+.vision-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.vision-centered-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    color: #F05DA3;
+}
+
+/*.services {*/
+/*    margin-bottom: 50px;*/
+/*}*/
+
+.vision-content {
+    padding: 30px 30px 20px;
+    background: #FBFBFB;
+    border: 1px solid #fff;
+    height: 180px;
+    /*font-family: "Brush Script MT";*/
+}
+
+/*.services .icon {*/
+/*    color: #F05DA3;*/
+/*    font-size: 38px;*/
+/*    padding-left: 15px;*/
+/*    float: left;*/
+/*    padding: 20px;*/
+/*}*/
 
 /* ------------------------------------------------------------------------------
 	 Serives
