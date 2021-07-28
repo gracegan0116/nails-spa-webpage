@@ -438,7 +438,10 @@ Common Styles
   color: #d5a6bd;
   text-align: center;
     font-family:"Brush Script MT";
-    font-size: xxx-large;
+    /*font-size: xxx-large;*/
+    padding: 30px 30px 20px;
+    border: 1px solid #fff;
+    height: 180px;
 }
 
 
