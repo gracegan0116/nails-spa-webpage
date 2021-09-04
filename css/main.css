@@ -412,7 +412,12 @@ Common Styles
     font-size: 50px;
     font-family: Brush Script MT;
 }
-
+.section-header2 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 50px;
+    font-family: Brush Script MT;
+}
 .section-header h2 {
 
 }
